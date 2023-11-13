@@ -1,0 +1,12 @@
+<form action="#">
+      <label for="Tipo">Tipo</label>
+      <select name="Tipo" id="Tipo">
+        <option value="Ligero">Ligero</option>
+        <option value="Medio">Medio</option>
+        <option value="Pesado">Pesado</option>
+        <option value="Antitanque">Antitanque</option>
+        <option value="Artillería">Artillería</option>
+      </select>
+      <input type="submit" value="Enviar" />
+</form>
+

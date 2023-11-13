@@ -1,0 +1,16 @@
+<form action="#">
+      <label for="Tier">Tier</label>
+      <select name="Tier" id="Tier">
+        <option value="Uno">Uno</option>
+        <option value="Dos">Dos</option>
+        <option value="Tres">Tres</option>
+        <option value="Cuatro">Cuatro</option>
+        <option value="Cinco">Cinco</option>
+        <option value="Seis">Seis</option>
+        <option value="Siete">Siete</option>
+        <option value="Ocho">Ocho</option>
+        <option value="Nueve">Nueve</option>
+        <option value="Diez">Diez</option>
+      </select>
+      <input type="submit" value="Enviar" />
+</form>
